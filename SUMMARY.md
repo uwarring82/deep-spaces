@@ -8,6 +8,7 @@
 
 ## Instances
 
+* [OneWorld](instances/oneworld.md)
 * [Physikalisches Seminar (B.Sc.)](instances/physikalisches-seminar-b.sc..md)
 * [Master Laboratory (Physics)](instances/master-laboratory-physics.md)
 * [Fortgeschrittenenpraktikum Lehramt (FP-EDU)](instances/fortgeschrittenenpraktikum-lehramt-fp-edu.md)
