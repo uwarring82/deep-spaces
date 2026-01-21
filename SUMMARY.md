@@ -9,3 +9,4 @@
 ## Instances
 
 * [Master Laboratory (Physics)](instances/master-laboratory-physics.md)
+* [Fortgeschrittenenpraktikum Lehramt (FP-EDU)](instances/fortgeschrittenenpraktikum-lehramt-fp-edu.md)
