@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome note](README.md)
+* [Welcome](README.md)
 
 ## Invariant Framework – IF
 
